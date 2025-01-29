@@ -6,7 +6,7 @@
     }
 
     div:nth-child(3) {
-        justify-self: end
+        justify-self: end;
     }
 }
 
